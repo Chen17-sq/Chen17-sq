@@ -10,23 +10,22 @@
 
 </div>
 
-> Investing in AI agents & hardware at **Hillhouse (高瓴资本)**.  
+> Investing in AI agents & hardware at **Hillhouse (高瀚资本)**.  
 > Building small things to think with.
 
-### Where
+### Between cities
 
-- Moving base from Shenzhen to Beijing. Shenzhen hardware deals mostly wrapped; Beijing is where the next chapter lives.
-- Still a regular at a few cafes in both cities. Happy to meet in either.
+Beijing and Shenzhen, in rotation.
 
 ### What I look at
 
-Interesting products with a real point of view — the kind you can feel the founder in. Mostly AI-native software and consumer hardware. I care more about taste and conviction than category labels.
+Products with a point of view. Mostly AI-native software and consumer hardware. Taste over category.
 
 ### Open door
 
-I really enjoy meeting people. Contributors behind a repo I’ve been reading late at night, young builders with a sharp point of view, and the senior folks who’ve been around long enough to have stories worth the scars.
+I like meeting people — the contributor behind a repo I couldn’t put down, the builder with a sharper take than mine, the operator whose scars are worth the story.
 
-If you’re building something you care about, or thinking about something I might be thinking about too, just say hi. No pitch deck required.
+If you’re making something you care about, say hi.
 
 ### Tinkering
 
