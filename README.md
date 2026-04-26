@@ -1,58 +1,49 @@
 <div align="center">
 
-<sub>VOL. I &nbsp;·&nbsp; BEIJING / SHENZHEN &nbsp;·&nbsp; EST. 2022</sub>
+<sub>VOL. I &nbsp;·&nbsp; EST. 2022 &nbsp;·&nbsp; BEIJING / SHENZHEN</sub>
 
 # Aldrich Chen
 
-<sub><i>Building small things to think with.</i></sub>
+<sub><i>Investor · Builder · Student of taste</i></sub>
 
 ---
 
 </div>
 
-Investor at **Hillhouse (高瀚资本)**. AI agents & hardware.  
-Moving base from Shenzhen to Beijing — Shenzhen hardware deals mostly wrapped, Beijing is where the next chapter lives.  
-Writes in English, thinks in 中文, lives in both.
+> Investing in AI agents & hardware at **Hillhouse (高瀚资本)**.  
+> Building small things to think with.
 
----
+### Where
 
-### Paying attention to
+- Moving base from Shenzhen to Beijing. Shenzhen hardware deals mostly wrapped; Beijing is where the next chapter lives.
+- Still a regular at a few cafes in both cities. Happy to meet in either.
 
-**Agent runtimes.** The shells inside which agents do real work. An agent without a runtime is a shrimp without a shell — no hard part, no meat.
+### What I look at
 
-**The harness layer.** The space between raw model output and the work a model is asked to do. Under-discussed, over-determining.
-
-**Fat applications → fatter infrastructure.** The quiet thesis of 2026.
-
-**AI-native hardware.** Earns its weight. Disappears on the body. Ships with a point of view.
-
-**Context-matching infra.** Where search ends and agents begin.
-
-**Model as OS.** Neolabs. The next non-fragmented global platform.
-
----
-
-### Tinkering
-
-[`clearscript`](https://github.com/Chen17-sq/clearscript) — local-first ASR transcript editor with a compounding terminology library. BYO model.  
-[`kickstarter-china-tracker`](https://github.com/Chen17-sq/kickstarter-china-tracker) — daily crawl of China-origin consumer hardware on Kickstarter. Editorial design.
-
-<sub>Less portfolio, more scratchpad.</sub>
-
----
+Interesting products with a real point of view — the kind you can feel the founder in. Mostly AI-native software and consumer hardware. I care more about taste and conviction than category labels.
 
 ### Open door
 
-I love meeting people — contributors behind a repo I've been reading, young builders with a sharp point of view, 老登前辈 with scars worth the story.
+I really enjoy meeting people. Contributors behind a repo I’ve been reading late at night, young builders with a sharp point of view, and the senior folks who’ve been around long enough to have stories worth the scars.
 
-If you're building something you care about, or thinking about something I might be thinking about too, just say hi. Coffee in Beijing or Shenzhen. Zoom otherwise. No pitch deck required.
+If you’re building something you care about, or thinking about something I might be thinking about too, just say hi. No pitch deck required.
+
+### Tinkering
+
+| Repo | One line |
+| :--- | :--- |
+| [**clearscript**](https://github.com/Chen17-sq/clearscript) | Local-first ASR transcript editor with a compounding terminology library. BYO model. |
+| [**kickstarter-china-tracker**](https://github.com/Chen17-sq/kickstarter-china-tracker) | Daily tracker for China-origin consumer hardware on Kickstarter. Editorial design. |
+
+<sub>Less portfolio, more scratchpad.</sub>
 
 ---
 
 <div align="center">
 
 <sub>
-<a href="https://www.linkedin.com/in/aldrich17siqi/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:schen.aldrich@gmail.com">schen.aldrich@gmail.com</a>
+<a href="https://www.linkedin.com/in/aldrich17siqi/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:schen.aldrich@gmail.com">schen.aldrich@gmail.com</a>
 </sub>
 
 <sub><i>“All the news that's fit to print.”</i></sub>
