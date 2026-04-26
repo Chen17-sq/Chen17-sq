@@ -10,7 +10,7 @@
 
 </div>
 
-Investor at **Hillhouse (高瀚)**. AI agents & hardware.  
+Investor at **Hillhouse (高瓴资本)**. AI agents & hardware.  
 Student at **CUHK-Shenzhen**, graduating 2026.  
 Writes in English, thinks in 中文, lives in both.
 
