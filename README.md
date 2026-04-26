@@ -43,7 +43,8 @@ Small tools I write on the side to make my own work a little sharper. Published 
 
 <sub>
 <a href="https://www.linkedin.com/in/aldrich17siqi/">LinkedIn</a> &nbsp;·&nbsp;
-<a href="mailto:schen.aldrich@gmail.com">schen.aldrich@gmail.com</a>
+<a href="mailto:schen.aldrich@gmail.com">schen.aldrich@gmail.com</a> &nbsp;·&nbsp;
+WeChat: 18574843907
 </sub>
 
 <sub><i>“All the news that's fit to print.”</i></sub>
