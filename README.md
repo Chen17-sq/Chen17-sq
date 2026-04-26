@@ -10,7 +10,7 @@
 
 </div>
 
-> Investing in AI agents & hardware at **Hillhouse (高瑶资本)**.  
+> Investing in AI agents & hardware at **Hillhouse (高瓴资本)**.  
 > Building small things to think with.
 
 ### Between cities
