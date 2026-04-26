@@ -27,14 +27,14 @@ I like meeting people — the contributor behind a repo I couldn’t put down, t
 
 If you’re making something you care about, say hi.
 
-### Tinkering
+### From the desk
+
+Small tools I write on the side to make my own work a little sharper. Published in case they’re useful to someone else, too.
 
 | Repo | One line |
 | :--- | :--- |
 | [**clearscript**](https://github.com/Chen17-sq/clearscript) | Local-first ASR transcript editor with a compounding terminology library. BYO model. |
 | [**kickstarter-china-tracker**](https://github.com/Chen17-sq/kickstarter-china-tracker) | Daily tracker for China-origin consumer hardware on Kickstarter. Editorial design. |
-
-<sub>Less portfolio, more scratchpad.</sub>
 
 ---
 
