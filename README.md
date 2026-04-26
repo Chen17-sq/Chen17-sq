@@ -11,6 +11,7 @@
 </div>
 
 > Investing in AI agents & hardware at **Hillhouse (高瓴资本)**.  
+> In it for the long walk — where the company and the person grow at the same pace.  
 > Building small things to think with.
 
 ### Between cities
@@ -25,7 +26,7 @@ Products with a point of view. Mostly AI-native software and consumer hardware. 
 
 I like meeting people — the contributor behind a repo I couldn’t put down, the builder with a sharper take than mine, the operator whose scars are worth the story.
 
-If you’re making something you care about, say hi.
+Honestly, my favorite part of the job is just getting to spend my days around founders and builders I actually admire. If you’re making something you care about, say hi.
 
 ### From the desk
 
