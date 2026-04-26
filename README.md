@@ -18,17 +18,15 @@
 
 Beijing and Shenzhen, in rotation.
 
-### What I look at
+### Drawn to
 
-Products with a point of view. Mostly AI-native software and consumer hardware. Taste over category.
-
-### Open door
-
-Looking for the interesting. Always.
+I’m a hands-on type. I learn by making things, and by spending time around people who are unusually good at something specific. The interesting, wherever it shows up, is what I chase:
 
 — A product that makes me put down my coffee.  
 — A person who changes the temperature of a room.  
 — An idea still turning over in my head on the walk home.
+
+Professionally, mostly AI-native software and consumer hardware. Personally, anything with a real point of view.
 
 If any of that sounds like something you’re making — or something you are — say hi.
 
