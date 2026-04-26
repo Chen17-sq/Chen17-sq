@@ -10,14 +10,14 @@
 
 </div>
 
-> backing founders at **Hillhouse (高瓴资本)** — mostly ai agents and hardware.  
+> backing founders at **Hillhouse Capital** — mostly ai agents and hardware.  
 > writing small tools after hours to make my own work a little sharper.  
 > if you’re making something you love, say hi.
 
 ### Between Cities
 
 beijing and shenzhen, in rotation. occasionally in transit.  
-全国可飞. have laptop, will show up.
+have laptop, will show up.
 
 ### Drawn To
 
