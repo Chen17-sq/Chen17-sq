@@ -4,15 +4,16 @@
 
 # Aldrich Chen
 
-<sub><i>Investor · Builder · Student of taste</i></sub>
+<sub><i>Builder · Investor · Student of taste</i></sub>
 
 ---
 
 </div>
 
-> Investing in AI agents & hardware at **Hillhouse (高瓴资本)**.  
-> I underwrite the person, not the pitch. The only thing that doesn’t get diluted, round after round, is who a founder is becoming.  
-> Building small things to think with.
+> Building small things to think with.  
+> Backing founders by day, writing tools by night — mostly chasing the same thing:  
+> a real point of view, wherever it shows up.  
+> (Day job: **Hillhouse / 高瓴资本**, AI agents & hardware.)
 
 ### Between cities
 
