@@ -1,6 +1,6 @@
 <div align="center">
 
-<sub>VOL. I &nbsp;·&nbsp; EST. 2022 &nbsp;·&nbsp; BEIJING / SHENZHEN</sub>
+<sub>VOL. I &nbsp;·&nbsp; BEIJING / SHENZHEN</sub>
 
 # Aldrich Chen
 
@@ -11,7 +11,7 @@
 </div>
 
 > Investing in AI agents & hardware at **Hillhouse (高瓴资本)**.  
-> In it for the long walk — where the company and the person grow at the same pace.  
+> I underwrite the person, not the pitch. The only thing that doesn’t get diluted, round after round, is who a founder is becoming.  
 > Building small things to think with.
 
 ### Between cities
