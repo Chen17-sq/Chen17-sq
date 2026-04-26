@@ -24,9 +24,13 @@ Products with a point of view. Mostly AI-native software and consumer hardware. 
 
 ### Open door
 
-I like meeting people — the contributor behind a repo I couldn’t put down, the builder with a sharper take than mine, the operator whose scars are worth the story.
+Looking for the interesting. Always.
 
-Honestly, my favorite part of the job is just getting to spend my days around founders and builders I actually admire. If you’re making something you care about, say hi.
+— A product that makes me put down my coffee.  
+— A person who changes the temperature of a room.  
+— An idea still turning over in my head on the walk home.
+
+If any of that sounds like something you’re making — or something you are — say hi.
 
 ### From the desk
 
