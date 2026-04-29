@@ -44,6 +44,7 @@ a few small tools i wrote to stop annoying myself. published in case they stop a
 <div align="center">
 
 <sub>
+<a href="https://aldrich.fyi/">aldrich.fyi</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/aldrich17siqi/">LinkedIn</a> &nbsp;·&nbsp;
 <a href="mailto:schen.aldrich@gmail.com">schen.aldrich@gmail.com</a> &nbsp;·&nbsp;
 WeChat: 18574843907
