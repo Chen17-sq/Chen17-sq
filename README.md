@@ -35,6 +35,7 @@ a few small tools i wrote to stop annoying myself. published in case they stop a
 
 | Repo | One Line |
 | :--- | :--- |
+| [**OpenPersona**](https://github.com/Chen17-sq/OpenPersona) | your AI memory, owned by you. local-first persona graph from real conversations, exposed via mcp for any agent. private alpha. |
 | [**clearscript**](https://github.com/Chen17-sq/clearscript) | local-first asr transcript editor with a compounding terminology library. bring your own model. |
 | [**kickstarter-china-tracker**](https://github.com/Chen17-sq/kickstarter-china-tracker) | daily crawl of china-origin consumer hardware on kickstarter. editorial design. |
 
